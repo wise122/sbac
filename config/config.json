@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x8143E0F003Cc1b566b759F643A9eE3a972993531",
+  "SCAN_LINK": "https://etherscan.io/address/0x8143e0f003cc1b566b759f643a9ee3a972993531",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Space Bored Ape Club ",
+  "SYMBOL": "SBAC",
+  "MAX_SUPPLY": 5555,
+  "DISPLAY_COST": 0.009,
+  "GAS_LIMIT": 14500,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/SpaceBoredApeClub",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": true
+}
