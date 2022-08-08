@@ -10,7 +10,7 @@
   "SYMBOL": "SBAC",
   "MAX_SUPPLY": 5555,
   "DISPLAY_COST": 0.009,
-  "GAS_LIMIT": 9000000,
+  "GAS_LIMIT": 14500,
   "MAX_PER_TX": 10,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/SpaceBoredApeClub",
